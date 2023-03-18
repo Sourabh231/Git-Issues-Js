@@ -1,0 +1,48 @@
+
+
+.container{
+    margin-left: 450px;
+    margin-top: 150px;
+    height: 500px;
+    width: 600px;
+    border: 2px solid black;
+    background-color: rgb(41, 71, 71);
+    color: white;
+    box-shadow: 20px 20px 20px #888686;
+}
+
+h1{
+    text-align: center;
+    margin-top: 80px;
+}
+
+#issues_list{
+ text-align: center;
+  margin-top: 50px; 
+  line-height: 2.5rem;
+  font-size: 20px;
+  color: white;
+}
+
+button{
+    margin-top: 20px;
+    padding:10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+#load_next{
+    margin-left: 80px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+    
+}
+
+#load_prev{
+    margin-left: 220px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+}
+
